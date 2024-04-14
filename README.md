@@ -1,4 +1,8 @@
-### Zalmora 🦋
+Currently learning:
+<ul>
+  <li>C++ & UE5.3 </li>
+  <li>Git & Github</li>
+</ul>
 
 <!--
 **Zhalmor/Zhalmor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
