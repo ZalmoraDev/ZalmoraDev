@@ -6,6 +6,13 @@ Currently learning:
   <li>Git & Github</li>
 </ul>
 
+Interested in:
+<ul>
+  <li>3D Gamedevelopment </li>
+  <li>3D Modeling (Blender)</li>
+  <li>AI Image Generation (Stable Diffusion)</li>
+</ul>
+
 <!--
 **Zhalmor/Zhalmor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
