@@ -4,6 +4,7 @@ Currently learning:
 <ul>
   <li>C++ & UE5.3 </li>
   <li>Git & Github</li>
+  <li>Networking (CCNA)</li>
 </ul>
 
 Interested in:
