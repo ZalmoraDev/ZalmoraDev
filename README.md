@@ -9,7 +9,7 @@ Currently learning:
 
 Interested in:
 <ul>
-  <li>3D Gamedevelopment </li>
+  <li>3D Gamedevelopment (Unreal Engine) </li>
   <li>3D Modeling (Blender)</li>
   <li>AI Image Generation (Stable Diffusion)</li>
 </ul>
