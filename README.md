@@ -2,9 +2,10 @@ Currently enrolled at: InHolland Haarlem
 
 Currently learning:
 <ul>
-  <li>C++ & UE5.3 </li>
+  <li>C++ & UE5.4 </li>
   <li>Git & Github</li>
   <li>Networking (CCNA)</li>
+  <li>Daily driving a Linux Distro</li>
 </ul>
 
 Interested in:
