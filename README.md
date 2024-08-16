@@ -8,7 +8,7 @@ Currently Learning:
 Interested in:
 <ul>
   <li>3D Gamedevelopment (Unreal Engine) </li>
-  <li>LiDAR and other 3d scanning posibilies</li>
+  <li>LiDAR and other 3d scanning possibilities</li>
   <li>C, C++ & Rust</li>
   <li>Cybersecurity</li>
   <li>3D Modeling (Blender)</li>
