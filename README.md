@@ -2,14 +2,13 @@ Computer Science student from the Netherlands
 
 Currently Learning:
 <ul>
-  <li>C++ & UE5.4 </li>
-  <li>Git & Github</li>
-  <li>Daily driving a Linux Distro</li>
+  <li>C++</li>
 </ul>
 
 Interested in:
 <ul>
   <li>3D Gamedevelopment (Unreal Engine) </li>
+  <li>LiDAR and other 3d scanning posibilies</li>
   <li>C, C++ & Rust</li>
   <li>Cybersecurity</li>
   <li>3D Modeling (Blender)</li>
