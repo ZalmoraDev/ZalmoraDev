@@ -1,18 +1,23 @@
-Computer Science student from the Netherlands
+Computer Science student from the Netherlands.
 
-Currently Learning:
+Currently "busy" with college.
+
+(Hopefully) Working towards the following certificates:
 <ul>
-  <li>C++</li>
+  <li>CCNA - Cisco Certified Network Associate</li>
+  <li>CPA - C++ Certified Associate Programmer</li>
+  <li>LPIC-1 Linux Professional Institute Certification-1</li>
 </ul>
 
 Interested in:
 <ul>
   <li>3D Gamedevelopment (Unreal Engine) </li>
-  <li>LiDAR and other 3d scanning possibilities</li>
+  <li>Linux (Fedora) </li>
   <li>C, C++ & Rust</li>
   <li>Cybersecurity</li>
   <li>3D Modeling (Blender)</li>
   <li>AI Image Generation (Stable Diffusion)</li>
+  <li>LiDAR and other 3D scanning possibilities</li>
 </ul>
 
 <!--
