@@ -12,8 +12,8 @@ Currently "busy" with college.
 Interested in:
 <ul>
   <li>3D Gamedevelopment (Unreal Engine) </li>
+  <li>C++</li>
   <li>Linux (Fedora) </li>
-  <li>C, C++ & Rust</li>
   <li>Cybersecurity</li>
   <li>3D Modelling (Blender)</li>
   <li>AI Image Generation (Stable Diffusion)</li>
