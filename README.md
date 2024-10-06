@@ -15,9 +15,8 @@ Interested in:
   <li>Linux (Fedora) </li>
   <li>C, C++ & Rust</li>
   <li>Cybersecurity</li>
-  <li>3D Modeling (Blender)</li>
+  <li>3D Modelling (Blender)</li>
   <li>AI Image Generation (Stable Diffusion)</li>
-  <li>LiDAR and other 3D scanning possibilities</li>
 </ul>
 
 <!--
