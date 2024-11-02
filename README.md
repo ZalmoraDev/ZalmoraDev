@@ -1,22 +1,12 @@
 Computer Science student from the Netherlands.
 
-Currently "busy" with college.
-
-(Hopefully) Working towards the following certificates:
-<ul>
-  <li>CCNA - Cisco Certified Network Associate</li>
-  <li>CPA - C++ Certified Associate Programmer</li>
-  <li>LPIC-1 Linux Professional Institute Certification-1</li>
-</ul>
-
 Interested in:
 <ul>
-  <li>3D Gamedevelopment (Unreal Engine) </li>
   <li>C++</li>
-  <li>Linux (Fedora) </li>
-  <li>Cybersecurity</li>
+  <li>Linux </li>
+  <li>Networks </li>
   <li>3D Modelling (Blender)</li>
-  <li>AI Image Generation (Stable Diffusion)</li>
+  <li>3D Gamedevelopment (Unreal Engine 5.x) </li>
 </ul>
 
 <!--
