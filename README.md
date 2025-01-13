@@ -1,8 +1,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/zhalmor/count.svg)
 # WIP
 
-Computer Science student from the Netherlands.
-
 Interested in:
 <ul>
   <li>C++</li>
