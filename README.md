@@ -1,3 +1,4 @@
+![Visitor Count](https://profile-counter.glitch.me/zhalmor/count.svg)
 # WIP
 
 Computer Science student from the Netherlands.
@@ -10,6 +11,8 @@ Interested in:
   <li>3D Modelling (Blender)</li>
   <li>3D Gamedevelopment (Unreal Engine 5.x) </li>
 </ul>
+
+
 
 ### ⚙️ Languages and Tools
 
