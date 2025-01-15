@@ -1,4 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/zhalmor/count.svg)
 # 👋 Hi, I'm <a href="https://github.com/Zhalmor">Stef Visser</a>!
 
 ### 🧠Interests:
