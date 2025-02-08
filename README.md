@@ -29,8 +29,9 @@
 ## 📁Highlights
 <details>
   <summary><b>📊 Github Stats</b></summary>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zhalmor&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhalmor&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<a href="https://github.com/ZalmoraDev/ZalmoraDev">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZalmoraDev&theme=dark" />
+</a>
 </details>
 
 
@@ -50,7 +51,7 @@
   <summary><b>💿Used hard- & software</b></summary>
   <ul>
     <li><b>Laptop</b>: Lenovo Legion 5 Pro (RTX 3070)</li>
-    <li><b>OS</b>: Windows 11 & Fedora Linux (Dual boot)</li>
+    <li><b>OS</b>: Windows 11 & Fedora 41 KDE (Dual boot)</li>
   </ul>
 
   <ul>
