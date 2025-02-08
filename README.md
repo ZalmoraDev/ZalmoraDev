@@ -27,13 +27,10 @@
 <br><br>
 
 ## 📁Highlights
-<details>
-  <summary><b>📊 Github Stats</b></summary>
+  <b>📊 Github Stats</b><br>
 <a href="https://github.com/ZalmoraDev/ZalmoraDev">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZalmoraDev&theme=dark" />
 </a>
-</details>
-
 
 <details>
   <summary><b>🎓Certifications</b></summary>
