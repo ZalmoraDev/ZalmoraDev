@@ -5,7 +5,7 @@
   <li>C++</li>
   <li>Linux </li>
   <li>Computer Networks </li>
-  <li>3D Modelling (Blender)</li>
+  <li>3D Modeling (Blender)</li>
   <li>3D Gamedevelopment (Unreal Engine 5.x) </li>
 </ul>
 
@@ -16,6 +16,8 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -23,7 +25,7 @@
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<!--<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> -->
+
 <br><br>
 
 ## 📁Highlights
@@ -34,6 +36,10 @@
 
 <details>
   <summary><b>🎓Certifications</b></summary>
+    <img align="left" alt="Logo of Docker, Inc." width="48px" style="padding-right:5px;" src="https://media.licdn.com/dms/image/v2/D4E0BAQFWt4Tl53wjZQ/company-logo_100_100/company-logo_100_100/0/1705960989383/docker_logo?e=1748476800&v=beta&t=vU84PKYYfqmgVMruZKRoXx_x_ySVHvG4-iT33rh5uMQ"/>
+    <a href="https://www.linkedin.com/learning/certificates/3ca0b522be99daa8a66d554eb1003eb8a68430cc2ca2610485b851cad44487cb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B402G6b6NSk2tSew7quV3hA%3D%3D">Docker Certificate of Completion</a> @ Docker, Inc (LinkedIn)<br>
+    Feb 2025
+    <br><br>
     <img align="left" alt="Logo of Inholland" width="48px" style="padding-right:5px;" src="https://media.licdn.com/dms/image/v2/D4E0BAQGdC4oTqG8-7w/company-logo_100_100/company-logo_100_100/0/1704010769138/hogeschool_inholland_logo?e=1744848000&v=beta&t=xsK9_p5sFOidJXKsNzCoAltwodEMjNNe-jnbdt_JMe8"/>
     <a href="https://www.inholland.nl/opleidingen/informatica-voltijd/">Informatics</a> @ Inholland Haarlem (Dutch)<br>
     Sep 2024 | Propaedeutic Diploma (First year completion)
@@ -54,11 +60,10 @@
   <ul>
     <li><b>Dev Tools</b>:
          <ul>
-            <li>Jetbrains Suite (Rider, InteliJ, PhpStorm & CLion)
-            </li>
+            <li>Jetbrains Suite (Rider, InteliJ, PhpStorm & CLion)</li>
             <li>VSCode</li>
+            <li>CMD & WSL</li>
             <li>Unreal Engine 5.x</li>
-            <li>GitKraken</li>
             <li>draw.io (UML)</li>
         </ul>
     </li>
