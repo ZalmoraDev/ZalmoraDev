@@ -51,20 +51,20 @@
 
 <details>
   <summary><b>🎓Certifications</b></summary>
-    <img align="left" alt="Logo of Docker, Inc." width="48px" style="padding-right:5px;" src="https://media.licdn.com/dms/image/v2/D4E0BAQFWt4Tl53wjZQ/company-logo_100_100/company-logo_100_100/0/1705960989383/docker_logo?e=1748476800&v=beta&t=vU84PKYYfqmgVMruZKRoXx_x_ySVHvG4-iT33rh5uMQ"/>
+    <img align="left" alt="Logo of Docker, Inc." width="48px" style="padding-right:5px;" src="https://media.licdn.com/dms/image/v2/D4E0BAQFWt4Tl53wjZQ/company-logo_200_200/company-logo_200_200/0/1705960989383/docker_logo?e=1756339200&v=beta&t=5JA0LsfM_o8841UawOCHsHHvyNEMmMkb-B09-VmDKtE"/>
     <a href="https://www.linkedin.com/learning/certificates/3ca0b522be99daa8a66d554eb1003eb8a68430cc2ca2610485b851cad44487cb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B402G6b6NSk2tSew7quV3hA%3D%3D">Docker Certificate of Completion</a> @ Docker, Inc (LinkedIn)<br>
     Feb 2025
     <br><br>
-    <img align="left" alt="Logo of Inholland" width="48px" style="padding-right:5px;" src="https://media.licdn.com/dms/image/v2/D4E0BAQGdC4oTqG8-7w/company-logo_100_100/company-logo_100_100/0/1704010769138/hogeschool_inholland_logo?e=1744848000&v=beta&t=xsK9_p5sFOidJXKsNzCoAltwodEMjNNe-jnbdt_JMe8"/>
+    <img align="left" alt="Logo of Inholland" width="48px" style="padding-right:5px;" src="https://media.licdn.com/dms/image/v2/D4E0BAQGdC4oTqG8-7w/company-logo_200_200/company-logo_200_200/0/1704010769138/hogeschool_inholland_logo?e=1756339200&v=beta&t=2KiJ9-xqHTEBMWehRTEROLUKuUispQ8TqSGAsZyPm60"/>
     <a href="https://www.inholland.nl/opleidingen/informatica-voltijd/">Informatics</a> @ Inholland Haarlem (Dutch)<br>
     Sep 2024 | Propaedeutic Diploma (First year completion)
     <br><br>
-    <img align="left" alt="Logo of Nova College" width="48px" style="padding-right:10px;" src="https://media.licdn.com/dms/image/v2/D4E0BAQFFY-7lqXY-8Q/company-logo_100_100/company-logo_100_100/0/1730991890018/nova_college_logo?e=1744848000&v=beta&t=nApVKXnj_Ic2rooMPC92DfjvdVo7pTWq7IBolTD24LU"/>
+    <img align="left" alt="Logo of Nova College" width="48px" style="padding-right:10px;" src="https://media.licdn.com/dms/image/v2/D4E0BAQFFY-7lqXY-8Q/company-logo_200_200/company-logo_200_200/0/1730991890018/nova_college_logo?e=1756339200&v=beta&t=ynU8PqOOZRABUoaeSYbGyAIrxvZfdgjNLzZH8_QvK5o"/>
     <a href="https://www.novacollege.nl/opleidingen/alle-opleidingen/software-developer/">Application- and mediadeveloper</a> @ Nova College Beverwijk (Dutch)<br>
     Jun 2022 | Secondary vocational education (MBO)
 </details>
 
-
+<!--
 <details>
   <summary><b>💿Used hard- & software</b></summary>
   <ul>
@@ -99,7 +99,7 @@
     </li>
   </ul>
 </details>
-
+-->
 
 
 <!--
