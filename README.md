@@ -1,30 +1,35 @@
 # 👋 Hi, I'm <a href="https://github.com/Zhalmor">Stef Visser</a>!
 
-### 🧠Interests:
+### 🧠Learning:
 <ul>
-  <li>Linux </li>
-  <li>C++</li>
-  <li>Full-stack</li>
-  <li>Computer Networks </li>
-  <li>3D Modeling (Blender)</li>
-  <li>3D Gamedevelopment (Unreal Engine 5.x) </li>
+  <li>Linux (LPIC-1)</li>
+  <li>C++ 17</li>
+  <li>3D Gamedevelopment (UE 5.x)</li>
+  <li>3D Modelling (Blender)</li>
+  <li>Computer Networks (CCNA)</li>
+</ul>
+
+### 💡Interests:
+<ul>
+  <li>Graphics Programming</li>
+  <li>Full-stack (ASP.NET)</li>
 </ul>
 
 ## ⚙️ Languages and Tools
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-35495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<!-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) -->
+<!-- ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css&logoColor=white) -->
 
+![C++](https://img.shields.io/badge/c++-084a86.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/springboot-72b545?style=for-the-badge&logo=springboot&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-512bd4.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-084a86.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-![Unreal Engine](https://img.shields.io/badge/unreal%A0engine-000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unreal Engine (5.x)](https://img.shields.io/badge/unreal%A0engine%A0(5.x)-000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-eb7a08.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -34,12 +39,12 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
+![Cent OS](https://img.shields.io/badge/cent%20os%20stream-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-087cfa.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-dd1265.svg?style=for-the-badge&logo=Rider&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-21d789?style=for-the-badge&logo=clion&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-dd1265.svg?style=for-the-badge&logo=Rider&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-087cfa.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## 📁Highlights
   <b>📊 Github Stats</b><br>
@@ -49,15 +54,33 @@
 
 <details>
   <summary><b>🎓Certifications</b></summary>
-    <img align="left" alt="Logo of Docker, Inc." width="48px" style="padding-right:5px;" src="https://media.licdn.com/dms/image/v2/D4E0BAQFWt4Tl53wjZQ/company-logo_200_200/company-logo_200_200/0/1705960989383/docker_logo?e=1756339200&v=beta&t=5JA0LsfM_o8841UawOCHsHHvyNEMmMkb-B09-VmDKtE"/>
-    <a href="https://www.linkedin.com/learning/certificates/3ca0b522be99daa8a66d554eb1003eb8a68430cc2ca2610485b851cad44487cb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B402G6b6NSk2tSew7quV3hA%3D%3D">Docker Certificate of Completion</a> @ Docker, Inc (LinkedIn)<br>
-    Feb 2025
+<!--     <img align="left" alt="Logo of LinkedIn" width="48px" style="padding-right:5px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPNLVVS0PaqrSH66PI7NmuwF_R9rGAs1Q7iA&s"/>
+    <a href="">CCNA</a> @ Cisco<br>
+    ??? 2025 - ??? 20xx | Official Certification
     <br><br>
-    <img align="left" alt="Logo of Inholland" width="48px" style="padding-right:5px;" src="https://media.licdn.com/dms/image/v2/D4E0BAQGdC4oTqG8-7w/company-logo_200_200/company-logo_200_200/0/1704010769138/hogeschool_inholland_logo?e=1756339200&v=beta&t=2KiJ9-xqHTEBMWehRTEROLUKuUispQ8TqSGAsZyPm60"/>
+    <img align="left" alt="Logo of LinkedIn" width="48px" style="padding-right:5px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0CUoJGuupeW1MZ0oYuStA8-J-66LaZUs_Xg&s"/>
+    <a href="">LPIC-1</a> @ Linux Professional Institute<br>
+    ??? 2025 - ??? 20xx | Official Certification
+    <br><br>
+    <img align="left" alt="Logo of LinkedIn" width="48px" style="padding-right:5px;" src="https://assets.dryicons.com/uploads/icon/svg/8337/a347cd89-1662-4421-be90-58e5e8004eae.svg"/>
+    <a href="">Advanced C++: Building Projects with CMake</a> @ Károly Nyisztor<br>
+    ??? 2025 | LinkedIn Learning, Course
+    <br><br>
+    <img align="left" alt="Logo of OpenEDG C++ Institute" width="48px" style="padding-right:5px;" src="https://media.licdn.com/dms/image/v2/D4E0DAQGF3wv87tVwuA/img_200_trans/img_200_trans/0/1712956868139?e=1757289600&v=beta&t=43oiDb3eTFPP-d9jz0H29XiDzWef8jHr--gYvsj41SQ"/>
+    <a href="">C++ Programming Professional Certificate</a> @ OpenEDG C++ Institute<br>
+    Sep 2025 | LinkedIn Learning, Professional Certificate
+    <br><br> -->
+    <img align="left" alt="Logo of Docker, Inc." width="48px" style="padding-right:5px;" src="https://pbs.twimg.com/profile_images/1816856437567406080/ByISu1ft_400x400.jpg"/>
+    <a href="https://www.linkedin.com/learning/certificates/3ca0b522be99daa8a66d554eb1003eb8a68430cc2ca2610485b851cad44487cb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B402G6b6NSk2tSew7quV3hA%3D%3D">Docker Certificate of Completion</a> @ Docker, Inc<br>
+    Feb 2025 | LinkedIn Learning, Professional Certificate
+    <br>
+  <hr>
+    <img align="left" alt="Logo of Inholland" width="48px" style="padding-right:5px;" src="https://yt3.googleusercontent.com/EibQUZzBx8L8qTQGlEJREEf7zdGLeUDo3DEL7blCfIvpsNA2wsqCQpx0nk20GB0ngpMD0AlcBA=s900-c-k-c0x00ffffff-no-rj"/>
     <a href="https://www.inholland.nl/opleidingen/informatica-voltijd/">Informatics</a> @ Inholland Haarlem (Dutch)<br>
-    Sep 2024 | Propaedeutic Diploma (First year completion)
-    <br><br>
-    <img align="left" alt="Logo of Nova College" width="48px" style="padding-right:10px;" src="https://media.licdn.com/dms/image/v2/D4E0BAQFFY-7lqXY-8Q/company-logo_200_200/company-logo_200_200/0/1730991890018/nova_college_logo?e=1756339200&v=beta&t=ynU8PqOOZRABUoaeSYbGyAIrxvZfdgjNLzZH8_QvK5o"/>
+    Sep 2024 | Propaedeutic Diploma (First year completion, 7.3/10 avg.)
+    <br>
+  <hr>
+    <img align="left" alt="Logo of Nova College" width="48px" style="padding-right:10px;" src="https://www.novacollege.nl/Content/img/favicon.png"/>
     <a href="https://www.novacollege.nl/opleidingen/alle-opleidingen/software-developer/">Application- and mediadeveloper</a> @ Nova College Beverwijk (Dutch)<br>
     Jun 2022 | Secondary vocational education (MBO)
 </details>
@@ -101,8 +124,6 @@
 
 
 <!--
-**Zhalmor/Zhalmor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
