@@ -5,7 +5,7 @@
   <li>Linux (LPIC-1)</li>
   <li>C++ 17</li>
   <li>3D Gamedevelopment (UE 5.x)</li>
-  <li>3D Modelling (Blender)</li>
+  <li>3D Modeling (Blender)</li>
   <li>Computer Networks (CCNA)</li>
 </ul>
 
