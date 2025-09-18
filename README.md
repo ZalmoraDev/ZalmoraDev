@@ -65,11 +65,11 @@
     <img align="left" alt="Logo of LinkedIn" width="48px" style="padding-right:5px;" src="https://assets.dryicons.com/uploads/icon/svg/8337/a347cd89-1662-4421-be90-58e5e8004eae.svg"/>
     <a href="">Advanced C++: Building Projects with CMake</a> @ Károly Nyisztor<br>
     ??? 2025 | LinkedIn Learning, Course
-    <br><br>
-    <img align="left" alt="Logo of OpenEDG C++ Institute" width="48px" style="padding-right:5px;" src="https://media.licdn.com/dms/image/v2/D4E0DAQGF3wv87tVwuA/img_200_trans/img_200_trans/0/1712956868139?e=1757289600&v=beta&t=43oiDb3eTFPP-d9jz0H29XiDzWef8jHr--gYvsj41SQ"/>
-    <a href="">C++ Programming Professional Certificate</a> @ OpenEDG C++ Institute<br>
+    <br><br>-->
+    <img align="left" alt="Logo of OpenEDG C++ Institute" width="48px" style="padding-right:5px;" src="https://media.licdn.com/dms/image/v2/D4E0DAQGF3wv87tVwuA/img_100_trans/img_100_trans/0/1712956868139?e=1758805200&v=beta&t=f_46g_NNsu4mmcdEXYijPXZdCwf9X-RFKWNTZsO53go"/>
+    <a href="https://www.linkedin.com/learning/certificates/5de16b74578127db5b3ae67b9fbb12aed8a2e9230514437e5a1455707819b9ac">C++ Programming Professional Certificate</a> @ OpenEDG C++ Institute<br>
     Sep 2025 | LinkedIn Learning, Professional Certificate
-    <br><br> -->
+    <br><br>
     <img align="left" alt="Logo of Docker, Inc." width="48px" style="padding-right:5px;" src="https://pbs.twimg.com/profile_images/1816856437567406080/ByISu1ft_400x400.jpg"/>
     <a href="https://www.linkedin.com/learning/certificates/3ca0b522be99daa8a66d554eb1003eb8a68430cc2ca2610485b851cad44487cb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B402G6b6NSk2tSew7quV3hA%3D%3D">Docker Certificate of Completion</a> @ Docker, Inc<br>
     Feb 2025 | LinkedIn Learning, Professional Certificate
@@ -77,7 +77,7 @@
   <hr>
     <img align="left" alt="Logo of Inholland" width="48px" style="padding-right:5px;" src="https://yt3.googleusercontent.com/EibQUZzBx8L8qTQGlEJREEf7zdGLeUDo3DEL7blCfIvpsNA2wsqCQpx0nk20GB0ngpMD0AlcBA=s900-c-k-c0x00ffffff-no-rj"/>
     <a href="https://www.inholland.nl/opleidingen/informatica-voltijd/">Informatics</a> @ Inholland Haarlem (Dutch)<br>
-    Sep 2024 | Propaedeutic Diploma (First year completion, 7.3/10 avg.)
+    Sep 2024 | Propaedeutic Diploma (First year completion)
     <br>
   <hr>
     <img align="left" alt="Logo of Nova College" width="48px" style="padding-right:10px;" src="https://www.novacollege.nl/Content/img/favicon.png"/>
