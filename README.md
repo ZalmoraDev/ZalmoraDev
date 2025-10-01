@@ -67,7 +67,7 @@
     <a href="">Advanced C++: Building Projects with CMake</a> @ Károly Nyisztor<br>
     ??? 2025 | LinkedIn Learning, Course
     <br><br>-->
-    <img align="left" alt="Logo of OpenEDG C++ Institute" width="48px" style="padding-right:5px;" src="https://media.licdn.com/dms/image/v2/D4E0DAQGF3wv87tVwuA/img_100_trans/img_100_trans/0/1712956868139?e=1758805200&v=beta&t=f_46g_NNsu4mmcdEXYijPXZdCwf9X-RFKWNTZsO53go"/>
+    <img align="left" alt="Logo of OpenEDG C++ Institute" width="48px" style="padding-right:5px;" src="/cpp_icon_custom.png"/>
     <a href="https://www.linkedin.com/learning/certificates/5de16b74578127db5b3ae67b9fbb12aed8a2e9230514437e5a1455707819b9ac">C++ Programming Professional Certificate</a> @ OpenEDG C++ Institute<br>
     Sep 2025 | LinkedIn Learning, Professional Certificate
     <br><br>
