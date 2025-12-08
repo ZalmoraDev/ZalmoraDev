@@ -5,14 +5,8 @@
   <li>Linux (LPIC-1)</li>
   <li>C++ 17</li>
   <li>3D Gamedevelopment (UE 5)</li>
-  <li>3D Modelling (Blender)</li>
+  <li>3D Modeling (Blender)</li>
   <li>Computer Networks (CCNA)</li>
-</ul>
-
-### 💡Interests:
-<ul>
-  <li>Graphics Programming</li>
-  <li>Full-stack (ASP.NET)</li>
 </ul>
 
 ## ⚙️ Languages and Tools
