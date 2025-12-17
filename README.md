@@ -11,36 +11,31 @@
 
 ## ⚙️ Languages and Tools
 
-![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Vue.js](https://img.shields.io/badge/vuejs-35495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-<!-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) -->
-<!-- ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css&logoColor=white) -->
-
 ![C++](https://img.shields.io/badge/c++-084a86.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/springboot-72b545?style=for-the-badge&logo=springboot&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-512bd4.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
+![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Vue.js](https://img.shields.io/badge/vuejs-35495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Podman](https://img.shields.io/badge/podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch](https://img.shields.io/badge/Arch%20(btw)-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Cent OS](https://img.shields.io/badge/cent%20os%20stream-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
-
-![CLion](https://img.shields.io/badge/CLion-21d789?style=for-the-badge&logo=clion&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-dd1265.svg?style=for-the-badge&logo=Rider&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-087cfa.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
 ![Unreal Engine 5](https://img.shields.io/badge/unreal%A0engine%A05-000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-eb7a08.svg?style=for-the-badge&logo=blender&logoColor=white)
 
+<!--
+![CLion](https://img.shields.io/badge/CLion-21d789?style=for-the-badge&logo=clion&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-dd1265.svg?style=for-the-badge&logo=Rider&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-087cfa.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+-->
 ## 📁Highlights
 <details>
   <summary><b>🎓Certifications</b></summary>
