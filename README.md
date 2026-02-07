@@ -1,9 +1,9 @@
 # 👋 Hi, I'm <a href="https://github.com/ZalmoraDev">Stef Visser</a>!
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZalmoraDev&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ## 🧠Learning / Interests:
 <ul>
   <li>Linux (LPIC-1)</li>
-  <li>C++ 17</li>
+  <li>C++ 17 & QT6</li>
   <li>Computer Networks (CCNA)</li>
   <li>3D Gamedevelopment (UE 5)</li>
   <li>3D Modeling (Blender)</li>
@@ -21,6 +21,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Podman](https://img.shields.io/badge/podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
