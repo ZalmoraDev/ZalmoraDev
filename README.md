@@ -1,56 +1,63 @@
-# 👋 Hi, I'm <a href="https://github.com/ZalmoraDev">Stef Visser</a>!
+## 👋 Hi, I'm <a href="https://github.com/ZalmoraDev">Stef Visser</a>!
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZalmoraDev&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-## 🧠Learning / Interests:
+
+#### 🌱 Learning:
 <ul>
-  <li>Linux (LPIC-1)</li>
-  <li>C++ 17 & QT6</li>
-  <li>Computer Networks (CCNA)</li>
-  <li>3D Gamedevelopment (UE 5)</li>
-  <li>3D Modeling (Blender)</li>
+  <li>Linux (LPIC-1 Exam)</li>
+  <li>Node.js & Express.js</li>
+  <li>Typescript & React</li>
 </ul>
 
-## ⚙️ Languages and Tools
+#### 🚀 Interests & Future pursuits:
+<ul>
+  <li>C++ 17, QT6 & CMake</li>
+  <li>OpenGL / Vulkan</li>
+  <li>Computer Networks (CCNA Exam)</li>
+  <li>Unreal Engine 5 (C++)</li>
+  <li>Blender Sculpting</li>
+</ul>
 
+#### ⚙️ Languages and Tools
 ![C++](https://img.shields.io/badge/c++-084a86.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-512bd4.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/springboot-72b545?style=for-the-badge&logo=springboot&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-512bd4.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-35495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Podman](https://img.shields.io/badge/podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![NGINX](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Cent OS](https://img.shields.io/badge/cent%20os%20stream-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
-![Unreal Engine 5](https://img.shields.io/badge/unreal%A0engine%A05-000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-eb7a08.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-<!--
-![CLion](https://img.shields.io/badge/CLion-21d789?style=for-the-badge&logo=clion&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-dd1265.svg?style=for-the-badge&logo=Rider&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-087cfa.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
--->
-## 📁Highlights
+![Blender](https://img.shields.io/badge/blender-eb7a08.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Unreal Engine 5](https://img.shields.io/badge/unreal%A0engine%A05-000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![JetBrains IDE's](https://img.shields.io/badge/jetbrains%A0IDE's-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+
 <details>
   <summary><b>🎓Certifications</b></summary>
-<!--     <img align="left" alt="Logo of LinkedIn" width="48px" style="padding-right:5px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPNLVVS0PaqrSH66PI7NmuwF_R9rGAs1Q7iA&s"/>
+<!--     <img align="left" alt="Logo of CCNA" width="48px" style="padding-right:5px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPNLVVS0PaqrSH66PI7NmuwF_R9rGAs1Q7iA&s"/>
     <a href="">CCNA</a> @ Cisco<br>
-    ??? 2025 - ??? 20xx | Official Certification
+    ??? 2026 | Official Certification
     <br><br>
-    <img align="left" alt="Logo of LinkedIn" width="48px" style="padding-right:5px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0CUoJGuupeW1MZ0oYuStA8-J-66LaZUs_Xg&s"/>
+    <img align="left" alt="Logo of LPI" width="48px" style="padding-right:5px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0CUoJGuupeW1MZ0oYuStA8-J-66LaZUs_Xg&s"/>
     <a href="">LPIC-1</a> @ Linux Professional Institute<br>
-    ??? 2025 - ??? 20xx | Official Certification
+    ??? 2026 | Official Certification
     <br><br>
-    <img align="left" alt="Logo of LinkedIn" width="48px" style="padding-right:5px;" src="https://assets.dryicons.com/uploads/icon/svg/8337/a347cd89-1662-4421-be90-58e5e8004eae.svg"/>
+    <img align="left" alt="Logo of CMake" width="48px" style="padding-right:5px;" src="https://assets.dryicons.com/uploads/icon/svg/8337/a347cd89-1662-4421-be90-58e5e8004eae.svg"/>
     <a href="">Advanced C++: Building Projects with CMake</a> @ Károly Nyisztor<br>
-    ??? 2025 | LinkedIn Learning, Course
+    ??? 2026 | LinkedIn Learning, Course
     <br><br>-->
     <img align="left" alt="Logo of OpenEDG C++ Institute" width="48px" style="padding-right:5px;" src="/cpp_icon_custom.png"/>
     <a href="https://www.linkedin.com/learning/certificates/5de16b74578127db5b3ae67b9fbb12aed8a2e9230514437e5a1455707819b9ac">C++ Programming Professional Certificate</a> @ OpenEDG C++ Institute<br>
@@ -70,54 +77,3 @@
     <a href="https://www.novacollege.nl/opleidingen/alle-opleidingen/software-developer/">Application- and mediadeveloper</a> @ Nova College Beverwijk (Dutch)<br>
     Jun 2022 | Secondary vocational education (MBO)
 </details>
-
-<!--
-<details>
-  <summary><b>💿Used hard- & software</b></summary>
-  <ul>
-    <li><b>Laptop</b>: Lenovo Legion 5 Pro (RTX 3070)</li>
-    <li><b>OS</b>: Windows 11 & Fedora 41 KDE (Dual boot)</li>
-  </ul>
-
-  <ul>
-    <li><b>Dev Tools</b>:
-         <ul>
-            <li>Jetbrains Suite (Rider, InteliJ, PhpStorm & CLion)</li>
-            <li>VSCode</li>
-            <li>CMD & WSL</li>
-            <li>Unreal Engine 5.x</li>
-            <li>draw.io (UML)</li>
-        </ul>
-    </li>
-    <li><b>Creative work</b>:
-         <ul>
-            <li>Blender</li>
-            <li>FL Studio</li>
-            <li>Adobe CC (Ps, Ai & Substance 3D Painter)</li>
-        </ul>
-    </li>
-        <li><b>Other</b>:
-         <ul>
-            <li>Brave Browser</li>
-            <li>Notion (Notes)</li>
-            <li>Anki (Flashcards)</li>
-            <li>TickTick (To-do App)</li>
-        </ul>
-    </li>
-  </ul>
-</details>
--->
-
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
