@@ -10,8 +10,8 @@
 
 #### 🚀 Interests & Future pursuits:
 <ul>
-  <li>C++ 17, QT6 & CMake</li>
-  <li>OpenGL / Vulkan</li>
+  <li>QT6 & CMake (C++ 17)</li>
+  <li>OpenGL</li>
   <li>Computer Networks (CCNA Exam)</li>
   <li>Unreal Engine 5 (C++)</li>
   <li>Blender Sculpting</li>
