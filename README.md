@@ -14,7 +14,7 @@
   <li>OpenGL</li>
   <li>Computer Networks (CCNA Exam)</li>
   <li>Unreal Engine 5 (C++)</li>
-  <li>Blender Sculpting</li>
+  <li>3D Sculpting (Blender)</li>
 </ul>
 
 #### ⚙️ Languages and Tools
