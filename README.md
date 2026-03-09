@@ -4,8 +4,8 @@
 #### 🌱 Learning:
 <ul>
   <li>Linux (LPIC-1 Exam)</li>
-  <li>Node.js & Express.js</li>
-  <li>Typescript & React</li>
+  <li>Express.js</li>
+  <li>React</li>
 </ul>
 
 #### 🚀 Interests & Future pursuits:
@@ -20,18 +20,18 @@
 #### ⚙️ Languages and Tools
 ![C++](https://img.shields.io/badge/c++-084a86.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-512bd4.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/springboot-72b545?style=for-the-badge&logo=springboot&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/js-323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/springboot-72b545?style=for-the-badge&logo=springboot&logoColor=white)
+![Express](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)
+
 ![Vue.js](https://img.shields.io/badge/vuejs-35495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TypeScript](https://img.shields.io/badge/ts-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ![Insomnia](https://img.shields.io/badge/insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
-![Podman](https://img.shields.io/badge/podman-892CA0.svg?style=for-the-badge&logo=podman&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![NGINX](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
@@ -42,11 +42,12 @@
 ![Cent OS](https://img.shields.io/badge/cent%20os%20stream-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
 ![Arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ![JetBrains IDE's](https://img.shields.io/badge/jetbrains%A0IDE's-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Unreal Engine 5](https://img.shields.io/badge/unreal%A0engine%A05-000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-eb7a08.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Draw.io](https://img.shields.io/badge/draw.io-F08705.svg?style=for-the-badge&logo=diagrams.net&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <details>
   <summary><b>🎓Certifications</b></summary>
@@ -62,7 +63,7 @@
     <a href="">Advanced C++: Building Projects with CMake</a> @ Károly Nyisztor<br>
     ??? 2026 | LinkedIn Learning, Course
     <br><br>-->
-    <img align="left" alt="Logo of OpenEDG C++ Institute" width="48px" style="padding-right:5px;" src="/cpp_icon_custom.png"/>
+    <img align="left" alt="Logo of OpenEDG C++ Institute" width="48px" style="padding-right:5px;" src="/icons/cpp_icon_custom.png"/>
     <a href="https://www.linkedin.com/learning/certificates/5de16b74578127db5b3ae67b9fbb12aed8a2e9230514437e5a1455707819b9ac">C++ Programming Professional Certificate</a> @ OpenEDG C++ Institute<br>
     Sep 2025 | LinkedIn Learning, Professional Certificate
     <br><br>
