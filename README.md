@@ -12,7 +12,7 @@
 <ul>
   <li>QT6 & CMake (C++ 17)</li>
   <li>OpenGL</li>
-  <li>Computer Networks (CCNA Exam)</li>
+  <li>Computer Networks (CCNA- / CompTIA Network+ exam)</li>
   <li>Unreal Engine 5 (C++)</li>
   <li>3D Sculpting (Blender)</li>
 </ul>
