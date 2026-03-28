@@ -5,7 +5,7 @@
 <ul>
   <li>Linux (LPIC-1 Exam)</li>
   <li>Express.js</li>
-  <li>React</li>
+  <li>Nuxt/Vue</li>
 </ul>
 
 #### 🚀 Interests & Future pursuits:
