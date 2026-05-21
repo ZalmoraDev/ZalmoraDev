@@ -1,5 +1,4 @@
 ## 👋 Hi, I'm <a href="https://github.com/ZalmoraDev">Stef Visser</a>!
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZalmoraDev&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 #### 🌱 Learning:
 <ul>
