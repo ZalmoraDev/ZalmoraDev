@@ -34,15 +34,19 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)    
-![Cent OS](https://img.shields.io/badge/cent%20os%20stream-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
+![CentOS](https://img.shields.io/badge/centOS-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
+![NixOS](https://img.shields.io/badge/Nixos*-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)   
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)    
+![VirtualBox](https://img.shields.io/badge/VirtualBox-2F61B4?style=for-the-badge&logo=virtualbox&logoColor=white)    
 
 ![JetBrains IDE's](https://img.shields.io/badge/jetbrains%A0IDE's-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
-![Unreal Engine 5](https://img.shields.io/badge/unreal%A0engine%A05-000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white)   
+![Unreal Engine 5](https://img.shields.io/badge/unreal%A0engine%A05-000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white)    
 ![Blender](https://img.shields.io/badge/blender-eb7a08.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Draw.io](https://img.shields.io/badge/draw.io-F08705.svg?style=for-the-badge&logo=diagrams.net&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+\* = Current Linux Distro
 
 <details>
   <summary><b>🎓Certifications</b></summary>
