@@ -35,8 +35,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)    
 ![CentOS](https://img.shields.io/badge/centOS-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
-![NixOS](https://img.shields.io/badge/Nixos*-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch*-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)    
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-2F61B4?style=for-the-badge&logo=virtualbox&logoColor=white)    
 
