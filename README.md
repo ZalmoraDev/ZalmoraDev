@@ -3,8 +3,9 @@
 #### 🌱 Learning:
 <ul>
   <li>Linux (LPIC-1 Exam)</li>
+  <li>Laravel</li>
   <li>Express.js</li>
-  <li>Nuxt/Vue</li>
+  <li>Nuxt</li>
 </ul>
 
 #### 🚀 Interests & Future pursuits:
@@ -17,24 +18,25 @@
 </ul>
 
 #### ⚙️ Languages and Tools
-![C++](https://img.shields.io/badge/c++-084a86.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-512bd4.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/springboot-72b545?style=for-the-badge&logo=springboot&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Express](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)    
-![Vue.js](https://img.shields.io/badge/vuejs-35495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TypeScript](https://img.shields.io/badge/ts-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)   
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Nuxt](https://img.shields.io/badge/nuxt-00DC82.svg?style=for-the-badge&logo=nuxt&logoColor=white)  
 
 ![Insomnia](https://img.shields.io/badge/insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)    
 ![CentOS](https://img.shields.io/badge/centOS-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
+![NixOS](https://img.shields.io/badge/NixOS*-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch*-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)    
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-2F61B4?style=for-the-badge&logo=virtualbox&logoColor=white)    
@@ -45,7 +47,7 @@
 ![Draw.io](https://img.shields.io/badge/draw.io-F08705.svg?style=for-the-badge&logo=diagrams.net&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-\* = Current Linux Distro
+\* = Current Linux Distro(s)
 
 <details>
   <summary><b>🎓Certifications</b></summary>
