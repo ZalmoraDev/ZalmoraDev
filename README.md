@@ -29,9 +29,6 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/nuxt-00DC82.svg?style=for-the-badge&logo=nuxt&logoColor=white)  
 
-![Insomnia](https://img.shields.io/badge/insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)    
@@ -39,7 +36,9 @@
 ![NixOS](https://img.shields.io/badge/NixOS*-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)    
-![VirtualBox](https://img.shields.io/badge/VirtualBox-2F61B4?style=for-the-badge&logo=virtualbox&logoColor=white)    
+![VirtualBox](https://img.shields.io/badge/VirtualBox-2F61B4?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
+
 
 ![JetBrains IDE's](https://img.shields.io/badge/jetbrains%A0IDE's-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Unreal Engine 5](https://img.shields.io/badge/unreal%A0engine%A05-000000.svg?style=for-the-badge&logo=unrealengine&logoColor=white)    
